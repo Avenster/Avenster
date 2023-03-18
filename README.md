@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a CS undergraduate<br>👯 I’m looking to collaborate on Many Projects<br>🌱 I’m currently learning Languages
+🔭 I’m currently a CS undergraduate<br>👯 I’m looking to collaborate on Many Projects<br>🌱 Currently learning new things
 
 
 ## 🌐 Socials:
