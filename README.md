@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently a CS undergraduate<br>👯 I’m looking to collaborate on Many Projects<br>🌱 Currently learning new things
+I’m currently a CS undergraduate<br> I’m looking to collaborate on Many Projects<br> Currently learning new things
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_ankurkaushal?igshid=MGNiNDI5ZTU=) 
