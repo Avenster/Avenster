@@ -3,6 +3,8 @@ I’m currently a CS undergraduate<br> I’m looking to collaborate on Many Proj
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_ankurkaushal?igshid=MGNiNDI5ZTU=) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_username/)
+
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23FFFFFF.svg?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/ankur_kaushal_21)
 
 # Knowledge:
