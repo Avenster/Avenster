@@ -5,10 +5,6 @@ I’m currently a CS undergraduate<br> I’m looking to collaborate on Many Proj
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ig_ankurkaushal?igshid=MGNiNDI5ZTU=)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23FFFFFF.svg?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/ankur_kaushal_21)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-kaushal-11035b259)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=round&logo=instagram&logoColor=white)](https://www.instagram.com/your_username/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=round&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your_username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=round&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_username/)
-
 
 
 
