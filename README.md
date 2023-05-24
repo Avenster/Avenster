@@ -1,4 +1,4 @@
-<h2>><b>About Me:</b></h2>
+<h2><b>About Me:</b></h2>
 I’m currently a CS undergraduate<br> 
 Mostly interested in DataScience and Web Development<br>
 I’m looking to collaborate on Many Projects<br>
