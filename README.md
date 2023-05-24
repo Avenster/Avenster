@@ -4,7 +4,7 @@
 I’m currently a CS undergraduate<br> 
 I'm Passionate PC Gamer<br>
 Mostly interested in DataScience and Web Development<br>
-I’m looking to collaborate on Many Projects🔎<br>
+I’m looking forward to collaborate on Many Projects🔎<br>
 Currently learning new things<br>
 
 ## Socials:
