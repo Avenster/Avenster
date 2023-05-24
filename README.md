@@ -1,9 +1,9 @@
 <h2><b>About Me:</b></h2>
 I’m currently a CS undergraduate<br> 
 Mostly interested in DataScience and Web Development<br>
-I’m looking to collaborate on Many Projects<br>
+I’m looking to collaborate on Many Projects🔎<br>
 Currently learning new things
-
+📁
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ig_ankurkaushal?igshid=MGNiNDI5ZTU=)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23FFFFFF.svg?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/ankur_kaushal_21)
