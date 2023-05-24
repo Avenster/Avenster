@@ -1,5 +1,8 @@
-# About Me:
-I’m currently a CS undergraduate<br> I’m looking to collaborate on Many Projects<br> Currently learning new things
+<b>About Me:</b>
+I’m currently a CS undergraduate<br> 
+Mostly interested in DataScience and Web Development<br>
+I’m looking to collaborate on Many Projects<br>
+Currently learning new things
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ig_ankurkaushal?igshid=MGNiNDI5ZTU=)
