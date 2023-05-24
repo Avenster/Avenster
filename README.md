@@ -1,5 +1,6 @@
-<h1>Hello there👋🏻👋🏻, I'm Ankur Kaushal</h1>
-
+<div style="text-align: center;">
+  <h1>Hello there👋🏻👋🏻, I'm Ankur Kaushal</h1>
+</div>
 <h2><b>About Me:</b></h2>
 I’m currently a CS undergraduate<br> 
 Mostly interested in DataScience and Web Development<br>
