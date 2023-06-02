@@ -1,4 +1,4 @@
-##Hello there👋🏻👋🏻, I'm Ankur Kaushal
+## Hello there👋🏻👋🏻, I'm Ankur Kaushal
 
 <h2><b>About Me:</b></h2>
 I’m currently a CS undergraduate<br> 
