@@ -1,6 +1,3 @@
-
-
-
 <h2 align="center">Hi 👋, I'm Ankur Kaushal</h2>
 <h3 align="center"> Currently learning new things</h3>
 
