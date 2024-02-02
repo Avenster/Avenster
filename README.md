@@ -1,4 +1,4 @@
-<div align="center" font-size="3rem"> # Hello there👋🏻👋🏻, I'm Ankur Kaushal</div><b></b>
+# Hello there👋🏻👋🏻, I'm Ankur Kaushal <br><br>
 <h2><b>About Me:</b></h2>
 I’m currently a CS undergraduate<br> 
 I'm a Passionate PC Gamer<br>
