@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avenster&label=Profile%20views&color=0e75b6&style=flat" alt="avenster" /> </p>
 
-- 👨‍💻 All of my projects are available at [avenster.codes](avenster.codes)
+- 👨‍💻 All of my projects are available at [avenster.codes](https://avenster.codes/)
 
 - 📫 How to reach me **ankur.kaushal.21cse@bmu.edu.in**
 
