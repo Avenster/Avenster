@@ -1,4 +1,4 @@
-# Hello there👋🏻👋🏻, I'm Ankur Kaushal <br><br>
+# Hello there👋🏻👋🏻, I'm Ankur Kaushal
 <h2>About Me:</h2>
 I’m currently a CS undergraduate<br> 
 I'm a Passionate PC Gamer<br>
