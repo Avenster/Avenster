@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Ankur Kaushal</h2>
-<h3 align="center"> Currently learning new things</h3>
+<h3 align="center"> Passionate learner</h3>
 
 - I’m currently a CS undergraduate 
 
