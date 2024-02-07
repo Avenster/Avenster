@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ankur.kaushal.21cse@bmu.edu.in**
   
-- 💻 I’m looking forward to collaborate on Many Projects
+- 💻 I’m looking forward to collaborate on Projects
   
 - 🎮 I'm a Passionate PC Gamer Mostly interested in DataScience and Web Development
 
