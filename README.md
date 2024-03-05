@@ -2,7 +2,6 @@
 <h3 align="center"> Passionate Learner</h3>
 
 - I’m currently a CS undergraduate 
-
 - 📫 How to reach me **ankur.kaushal.21cse@bmu.edu.in**
   
 - 💻 I’m looking forward to collaborate on Projects
