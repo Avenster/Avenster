@@ -7,7 +7,6 @@
 - 💻 I’m looking forward to collaborate on Projects
   
 - 🎮 I'm a Passionate PC Gamer Mostly interested in DataScience and Web Development
-
 - 👨‍💻 All of my projects are available at [avenster.codes](https://avenster.codes/)
 
 <h3 align="left">Connect with me:</h3>
