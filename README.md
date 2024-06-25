@@ -5,7 +5,6 @@
 - 💻 I’m looking forward to collaborate on Projects
 - 🎮 I'm a Passionate PC Gamer Mostly interested in DataScience and Web Development
 - 👨‍💻 All of my projects are available at [avenster.codes](https://avenster.codes/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/Avenstar#7977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Avenstar#7977" height="30" width="40" /></a>
