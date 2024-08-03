@@ -2,7 +2,7 @@
 <h3 align="center"> Passionate Learner</h3>
 <p>I'm currently a CS undergraduate </p>
 <p>-📫 How to reach me <b>ankur.kaushal.21cse@bmu.edu.in</b></p>
-<p>-💻 I'm looking forward to collaborate on Projects</p>
+<p>💻 I'm looking forward to collaborate on Projects</p>
 <p>🎮 I'm a Passionate PC Gamer Mostly interested in DataScience and Web Development</p>
 <p>👨‍💻 All of my projects are available at [avenster.codes](https://avenster.codes/)</p>
 <h3 align="left">Connect with me:</h3>
