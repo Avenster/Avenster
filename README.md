@@ -4,7 +4,7 @@
 <p>📫 How to reach me <b>ankur.kaushal.21cse@bmu.edu.in</b></p>
 <p>💻 I'm looking forward to collaborate on Projects</p>
 <p>🎮 I'm a Passionate PC Gamer Mostly interested in DataScience and Web Development</p>
-<p>- 👨‍💻 All of my projects are available at <a href="https://avenster.codes/">avenster.codes</a></p>
+<p>👨‍💻 All of my projects are available at <a href="https://avenster.codes/">avenster.codes</a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/Avenstar#7977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Avenstar#7977" height="30" width="40" /></a>
