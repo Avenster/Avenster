@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Ankur Kaushal</h2>
 <h3 align="center"> Passionate Learner</h3>
  I’m currently a CS undergraduate 
-- 📫 How to reach me ** ankur.kaushal.21cse@bmu.edu.in **
+- 📫 How to reach me <b>ankur.kaushal.21cse@bmu.edu.in </b>
 - 💻 I’m looking forward to collaborate on Projects
 - 🎮 I'm a Passionate PC Gamer Mostly interested in DataScience and Web Development
 - 👨‍💻 All of my projects are available at [avenster.codes](https://avenster.codes/)
