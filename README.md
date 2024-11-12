@@ -43,7 +43,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avenster&theme=highcontrast&hide_border=true" alt="Avenster's Streak" width="420" height="200" style="display:inline-block; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Avenster&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="Avenster's Stats" width="420" height="200" style="display:inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Avenster&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="Avenster's Stats" width="420" height="180" style="display:inline-block;" />
 </div>
 
 
