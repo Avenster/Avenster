@@ -1,7 +1,8 @@
+<div align="center">
 <h2>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3BAEF7&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankur+Kaushal;A+Passionate+Learner" alt="Typing SVG" />
 </h2>
-
+</div>
 <h3 align="center"> Passionate Learner</h3>
 <p>I'm currently a CS undergraduate </p>
 <p>📫 How to reach me <b>ankur.kaushal.21cse@bmu.edu.in</b></p>
