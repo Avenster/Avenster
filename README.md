@@ -42,7 +42,6 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=Avenster&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="Avenster's Stats" width="420" height="180" style="display:inline-block;" />
 </div>
 
