@@ -7,7 +7,7 @@
 <p>📫 How to reach me <b>ankur.kaushal.21cse@bmu.edu.in</b></p>
 <p>💻 Open for collaboration on innovative projects</p>
 <p>🎮 Avid PC Gamer</p>
-<p>🌱 Always learning, always growing</p>
+<p>🌱 Always learning, always growing</p> 
 <p>👨‍💻 All of my projects are available at <a href="https://avenster.codes/">avenster.codes</a></p>  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
