@@ -1,67 +1,56 @@
 <div align="center">
-  <!-- Modern gradient header with animated text -->
-  <div style="background: linear-gradient(90deg, #FF6B6B, #4ECDC4); padding: 2rem; border-radius: 20px; margin: 1rem;">
-    <h1 style="font-family: 'Inter', sans-serif; color: white; font-size: 3rem; margin: 0;">
-      Ankur Kaushal
-    </h1>
-    <p style="color: rgba(255,255,255,0.9); font-family: 'Inter', sans-serif; font-size: 1.2rem;">
-      ✨ Building the future, one commit at a time ✨
-    </p>
-  </div>
-
-  <!-- Modern badges -->
-  <div style="display: flex; gap: 1rem; justify-content: center; margin: 1.5rem 0;">
-    <span style="background: linear-gradient(90deg, #FF5F6D, #FFC371); padding: 0.5rem 1rem; border-radius: 12px; color: white; font-weight: 600;">🎓 CS Undergrad</span>
-    <span style="background: linear-gradient(90deg, #4834d4, #686de0); padding: 0.5rem 1rem; border-radius: 12px; color: white; font-weight: 600;">🤝 Open to Collab</span>
-    <span style="background: linear-gradient(90deg, #6441A4, #2a0845); padding: 0.5rem 1rem; border-radius: 12px; color: white; font-weight: 600;">🎮 Gaming Enthusiast</span>
-  </div>
-
-  <!-- Bio section with modern icons -->
-  <div style="background: rgba(255,255,255,0.1); padding: 2rem; border-radius: 20px; max-width: 600px; margin: 2rem auto;">
-    <p style="font-size: 1.1rem; line-height: 1.6;">
-      <span style="display: flex; align-items: center; gap: 0.5rem; margin: 0.8rem 0;">
-        📧 <a href="mailto:ankur.kaushal.21cse@bmu.edu.in" style="color: #4ECDC4; text-decoration: none;">ankur.kaushal.21cse@bmu.edu.in</a>
-      </span>
-      <span style="display: flex; align-items: center; gap: 0.5rem; margin: 0.8rem 0;">
-        🌐 <a href="https://www.avenster.me/" style="color: #4ECDC4; text-decoration: none;">avenster.me</a>
-      </span>
-      <span style="display: flex; align-items: center; gap: 0.5rem; margin: 0.8rem 0;">
-        🚀 Always shipping new features
-      </span>
-      <span style="display: flex; align-items: center; gap: 0.5rem; margin: 0.8rem 0;">
-        💡 Learning & Building 24/7
-      </span>
-    </p>
-  </div>
-
-  <!-- Tech Stack section with modern layout -->
-  <div style="margin: 2rem 0;">
-    <h2 style="font-family: 'Inter', sans-serif; color: #4ECDC4; margin-bottom: 1.5rem;">Tech Stack</h2>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(60px, 1fr)); gap: 1rem; max-width: 800px; margin: 0 auto; padding: 1rem;">
-      <!-- Modern tech icons -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="width: 40px; filter: drop-shadow(0 0 8px rgba(97,218,251,0.5));" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" style="width: 40px; filter: drop-shadow(0 0 8px rgba(0,0,0,0.5));" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="width: 40px; filter: drop-shadow(0 0 8px rgba(255,223,89,0.5));" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" style="width: 40px; filter: drop-shadow(0 0 8px rgba(45,156,219,0.5));" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" style="width: 40px; filter: drop-shadow(0 0 8px rgba(255,138,101,0.5));" />
-    </div>
-  </div>
-
-  <!-- Social Links with modern hover effects -->
-  <div style="margin: 2rem 0;">
-    <h2 style="font-family: 'Inter', sans-serif; color: #4ECDC4; margin-bottom: 1.5rem;">Connect with me</h2>
-    <div style="display: flex; gap: 1.5rem; justify-content: center;">
-      <a href="https://discord.gg/Avenstar#7977" style="transition: transform 0.2s; display: inline-block;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" style="width: 40px; filter: drop-shadow(0 0 8px rgba(114,137,218,0.5));" />
-      </a>
-      <a href="https://www.linkedin.com/in/ankur-kaushal-11035b259/" style="transition: transform 0.2s; display: inline-block;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width: 40px; filter: drop-shadow(0 0 8px rgba(0,119,181,0.5));" />
-      </a>
-    </div>
-  </div>
-
-  <!-- GitHub Stats with modern styling -->
-  <div style="margin: 2rem 0; padding: 1rem; background: linear-gradient(135deg, #FF6B6B, #4ECDC4); border-radius: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Avenster&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" style="width: 100%; max-width: 420px;" />
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ankur%20Kaushal&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" width="100%" />
 </div>
+<div align="center">
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3BAEF7&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+👋;I'm+Ankur+Kaushal+💫;A+Tech+Enthusiast+✨" />
+</h2> 
+  <p align="center">
+  <img src="https://img.shields.io/badge/-CS_Undergrad-FF452B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Open_to_Collab-5865F2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PC_Gamer-6441A4?style=for-the-badge" />
+</p>
+</div>
+<!-- <p align="center"> I'm currently a CS undergraduate </p> -->
+
+<p>📫 How to reach me <b>ankur.kaushal.21cse@bmu.edu.in</b></p>
+<p>💻 Open for collaboration on innovative projects</p>
+<p>🎮 Avid PC Gamer</p>
+<p>🌱 Always learning, always growing</p> 
+<p>👨‍💻 All of my projects are available at <a href="https://www.avenster.me/">avenster.me</a></p>  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/Avenstar#7977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Avenstar#7977" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankur-kaushal-11035b259/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" alt="LinkedIn" height="30" width="30" /></a>
+</p> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left" background-color="red"> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+<a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avenster&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="Avenster's Stats" width="420" height="180" style="display:inline-block;" />
+</div> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avenster&label=Profile%20views&color=0e75b6&style=flat" alt="avenster" /> </p>
