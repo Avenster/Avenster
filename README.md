@@ -13,17 +13,7 @@
 </p>
 </div>
 <!-- <p align="center"> I'm currently a CS undergraduate </p> -->
-### 🌟 About Me
 
-```typescript
-const ankur = {
-  education: "Computer Science Undergraduate",
-  passions: ["Coding", "Gaming", "Innovation"],
-  currentlyLearning: "Always something new! 🚀",
-  lookingToCollaborate: true,
-  portfolio: "avenster.me"
-};
-```
 <p>📫 How to reach me <b>ankur.kaushal.21cse@bmu.edu.in</b></p>
 <p>💻 Open for collaboration on innovative projects</p>
 <p>🎮 Avid PC Gamer</p>
