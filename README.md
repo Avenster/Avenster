@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-PC_Gamer-6441A4?style=for-the-badge" />
 </p>
 </div>
-<p align="center"> I'm currently a CS undergraduate </p>
+<!-- <p align="center"> I'm currently a CS undergraduate </p> -->
 <p>📫 How to reach me <b>ankur.kaushal.21cse@bmu.edu.in</b></p>
 <p>💻 Open for collaboration on innovative projects</p>
 <p>🎮 Avid PC Gamer</p>
