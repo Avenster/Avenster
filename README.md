@@ -1,3 +1,7 @@
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ankur%20Kaushal&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" width="100%" />
+</div>
 <div align="center">
 <h2>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3BAEF7&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+👋;I'm+Ankur+Kaushal+💫;A+Tech+Enthusiast+✨" />
