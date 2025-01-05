@@ -6,6 +6,11 @@
 <h2>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3BAEF7&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+👋;I'm+Ankur+Kaushal+💫;A+Tech+Enthusiast+✨" />
 </h2> 
+  <p align="center">
+  <img src="https://img.shields.io/badge/-CS_Undergrad-FF452B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Open_to_Collab-5865F2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PC_Gamer-6441A4?style=for-the-badge" />
+</p>
 </div>
 <p align="center"> I'm currently a CS undergraduate </p>
 <p>📫 How to reach me <b>ankur.kaushal.21cse@bmu.edu.in</b></p>
