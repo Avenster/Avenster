@@ -8,7 +8,7 @@
 <p>💻 Open for collaboration on innovative projects</p>
 <p>🎮 Avid PC Gamer</p>
 <p>🌱 Always learning, always growing</p> 
-<p>👨‍💻 All of my projects are available at <a href="https://avenster.me/">avenster.me</a></p>  
+<p>👨‍💻 All of my projects are available at <a href="https://www.avenster.me/">avenster.me</a></p>  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/Avenstar#7977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Avenstar#7977" height="30" width="40" /></a>
