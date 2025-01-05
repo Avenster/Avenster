@@ -1,26 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=250&section=header&text=Yo!%20I'm%20Ankur%20Kaushal&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=white&desc=Tech%20Enthusiast%20|%20CS%20Undergrad%20|%20Developer&descSize=20&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ankur%20Kaushal&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" width="100%" />
 </div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=Developing+Something+Cool+🚀;Always+Learning+Something+New+✨;Let's+Create+Together+💫" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <a href="mailto:ankur.kaushal.21cse@bmu.edu.in">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.avenster.me/">
-    <img src="https://img.shields.io/badge/Portfolio-FF3E41?style=for-the-badge&logo=Safari&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ankur-kaushal-11035b259/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/Avenstar#7977">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3BAEF7&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+👋;I'm+Ankur+Kaushal+💫;A+Tech+Enthusiast+✨" />
+</h2> 
+  <p align="center">
+  <img src="https://img.shields.io/badge/-CS_Undergrad-FF452B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Open_to_Collab-5865F2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PC_Gamer-6441A4?style=for-the-badge" />
 </p>
-
+</div>
 <!-- <p align="center"> I'm currently a CS undergraduate </p> -->
 
 <p>📫 How to reach me <b>ankur.kaushal.21cse@bmu.edu.in</b></p>
