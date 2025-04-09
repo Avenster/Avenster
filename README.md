@@ -12,7 +12,6 @@
 </p>
 </div>
 <!-- <p align="center"> I'm currently a CS undergraduate </p> -->
-
 <p>📫 How to reach me <b>ankur.kaushal.21cse@bmu.edu.in</b></p>
 <p>💻 Open for collaboration on innovative projects</p>
 <p>🎮 Avid PC Gamer</p>
