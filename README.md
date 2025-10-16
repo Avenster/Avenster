@@ -4,7 +4,7 @@
 <div align="center">
 
   <p align="center">
-  <img src="https://img.shields.io/badge/-CS_Undergrad-FF452B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-CS_GRAD-FF452B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Open_to_Collab-5865F2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-PC_Gamer-6441A4?style=for-the-badge" />
 </p>
